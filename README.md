@@ -10,4 +10,5 @@
 
 
 For more information: 
-[README.docx](https://github.com/ParanoidAandroid42/SlotGame/files/4083550/README.docx)
+[README.pdf](https://github.com/ParanoidAandroid42/SlotGame/files/4083591/README.pdf)
+
