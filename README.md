@@ -1,4 +1,4 @@
-#  Task solution for Derivco Company
+#  Simple Slot Client Base
 
 
 
