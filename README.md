@@ -1,12 +1,9 @@
-#  Simple Slot Client Base
+#  Simple Slot Client Base v1.0.0
 
 
 
-#  Built With TypeScript PixiJS 
-
-#  Version v1.0.0
-
-# Authors Aslı TUZCUOĞLU
+##  Built With TypeScript PixiJS 
+## Made in 2017
 
 
 For more information: 
